@@ -1,6 +1,7 @@
 # camosciogpt-wls2
 
 Questo repository contiene il codice necessario per eseguire su ambiente Windows WSL il modello Camoscio GPT tramite Nvidia CUDA.
+Per l'articolo completo ed i dettagli link al mio post su [Camoscio GPT: Alternativa a Chat-GPT in Italiano anche su Windows con Ubuntu WSL2](https://adrianoamalfi.com/tech-scratchpad/camoscio-alternativa-a-chat-gpt-in-italiano-su-windows-wsl2/) 
 
 ## Autore
 
